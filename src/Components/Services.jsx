@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Generative AI made for creators."
-          text="Cyber Nest Pro unlocks the potential of AI-powered applications"
+          text="Cyber Nest unlocks the potential of AI-powered applications"
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Smartest Software</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Cyber Nest Pro unlocks the potential of AI-powered applications
+                Cyber Nest unlocks the potential of AI-powered applications
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
@@ -78,9 +78,9 @@ const Services = () => {
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
               <div className="py-12 px-4 xl:px-8">
-                <h4 className="h4 mb-4">API generation</h4>
+                <h4 className="h4 mb-4">API Generation</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world’s most powerful AI API generation
+                  The world’s most powerful AI API Generation
                   engine. What will you create?
                 </p>
 

@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Cyber Nest Pro"
+          tag="Get started with Cyber Nest"
           title="Pay once, use forever"
         />
 
